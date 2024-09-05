@@ -1,1 +1,13 @@
-# AWS_terraform_micro_project-
+# AWS_terraform_micro_project
+├── backend.tf
+├── dev.tfvars
+├── igw.tf
+├── natgw.tf
+├── outputs.tf
+├── prod.tfvars
+├── provider.tf
+├── route_tables.tf
+├── subnets.tf
+├── terraform.tfstate.backup
+├── variables.tf
+└── vpc.tf
